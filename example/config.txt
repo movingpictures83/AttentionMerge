@@ -1,0 +1,2 @@
+Prefix plugins/AttentionMerge/example/
+Plugin AttentionMerge inputfile attentionmerge.txt outputfile attn.merge.pkl
